@@ -2,3 +2,8 @@ git init
 git remote add origin https://github.com/TomasAB1999/DWM3AP-VUE.git
 git branch -M main
 git add .
+git commit -m "init"
+git config --global user.email "email@davinci"
+git config --global user.name "username"
+
+Queda todo en https://github.com/TomasAB1999/DWM3AP-VUE

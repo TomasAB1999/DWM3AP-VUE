@@ -6,7 +6,7 @@ import Template from '../components/Template.vue'
   <titulo texto="Hola soy un titulo" />
   <Template>
     <template #parrafo>
-      <p>Esto se muestra solo en parrafo</p>
+      <p class="animate__animated animate__lightSpeedInRight">Esto se muestra solo en parrafo</p>
     </template>
     <p>Todo lo que este dentro va a slot</p>
   </Template>
