@@ -1,0 +1,4 @@
+git init
+git remote add origin https://github.com/TomasAB1999/DWM3AP-VUE.git
+git branch -M main
+git add .
